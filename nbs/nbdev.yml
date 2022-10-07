@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "grafteopy"
+  site-url: "https://franckalbinet.github.io/grafteopy"
+  description: "Hands-on session from Dan Sheehy Graph Theory course"
+  repo-branch: main
+  repo-url: "https://github.com/franckalbinet/grafteopy"
